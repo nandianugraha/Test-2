@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="stream">Stream</string>
+    <string name="search">Search</string>
+    <string name="chat">Chat</string>
+    <string name="portofolio">Portofolio</string>
+    <string name="belum_punya_akun_daftar_sekarang"><font color='#0000000'>Belum Punya akun? </font><font color='#FF00AD6C'>Daftar sekarang</font></string>
+</resources>
